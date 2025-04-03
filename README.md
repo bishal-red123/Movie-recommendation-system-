@@ -14,6 +14,8 @@ This project presents an interactive Movie Recommendation System built with Pyth
 * **Poster Display:** Fetches movie posters from The Movie Database (TMDB) API to provide a visually appealing experience.
 * **Real-time Suggestions:** Select a movie and instantly get recommendations.
 
+                                 Heres a Screenshot of recommendation system 
+<img src="https://github.com/bishal-red123/Movie-recommendation-system-/blob/main/Screenshot%202025-04-03%20215901.png" width="500">
 ## ⚙️ How It Works
 
 1.  **Data Loading & Preprocessing:** Movie data from the TMDB 5000 dataset is loaded using Pandas. Text features (overview, genres, keywords, cast, crew) are cleaned and combined into a single 'tags' column for each movie.
